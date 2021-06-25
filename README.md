@@ -30,5 +30,5 @@ library('Rcpp')
 library('RcppArmadillo')
 library('Matrix')
 library('MARS')
-solution <- MARS(matrix(runif(3000*50), 3000, 50), stopmethod = "bigs", printmain = TRUE)
+solution <- MARS(matrix(runif(3000*50), 3000, 50), stopmethod = "bigs", Lambdapath = seq(1, 0.5, -0.1), printmain = TRUE)
 ```
