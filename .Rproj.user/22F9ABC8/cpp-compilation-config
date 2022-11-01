@@ -1,0 +1,15 @@
+{
+    "args": [
+        "-ID:/E/setup/Rstuido/RStudio/resources/libclang/builtin-headers/5.0.2",
+        "-ID:/E/setup/Rstuido/RStudio/resources/libclang/builtin-headers/libc++/5.0.2",
+        "-ID:/E/setup/Ropen/library/Rcpp/include",
+        "-ID:/E/setup/Ropen/library/RcppArmadillo/include",
+        "-std=gnu++11",
+        "-ID:/E/setup/Ropen/include",
+        "-DNDEBUG",
+        "-IC:/a/w/1/s/vendor/extsoft/include"
+    ],
+    "pch": "RcppArmadillo",
+    "is_cpp": true,
+    "hash": "16244382601624437669"
+}

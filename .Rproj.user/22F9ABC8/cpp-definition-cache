@@ -1,0 +1,330 @@
+[
+    {
+        "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+        "file_last_write": 1624439997.0,
+        "definitions": [
+            {
+                "usr": "c:@F@MARSc#$@N@arma@S@Mat>#d#d#$@N@arma@S@Col>#d#$@N@std@N@__1@S@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@S@allocator>#C#i#b#b#d#I#b#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "MARSc(arma::mat, double, arma::vec, std::string, unsigned int, bool, bool, double, int, bool)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 24,
+                "column": 12
+            },
+            {
+                "usr": "c:@F@PMEASmainc#$@N@arma@S@Mat>#d#d#d#I#$@N@arma@S@Col>#i#$@N@arma@S@Mat>#i#&S0_#S3_#I#I#d#b#&d#S4_#S4_#S4_#S4_#S4_#&I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMEASmainc(arma::mat, double, double, int, arma::uvec, arma::umat, arma::mat &, arma::mat &, int, int, double, bool, double &, double &, double &, double &, double &, double &, int &)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 203,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@PMEASSSNCGc#&$@N@arma@S@Mat>#d#&$@N@arma@S@Col>#d#S2_#S2_#&I#S1_#S3_#d#d#I#d#d#I#I#$@N@arma@S@Col>#i#$@N@arma@S@Mat>#i#S3_#S3_#S3_#S3_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMEASSSNCGc(arma::mat &, arma::vec &, arma::vec &, arma::vec &, int &, arma::mat, arma::vec, double, double, int, double, double, int, int, arma::uvec, arma::umat, arma::vec, arma::vec, arma::vec, arma::vec)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 309,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@PMEASCG#$@N@arma@S@Mat>#d#d#I#S0_#$@N@arma@S@Mat>#i#$@N@arma@S@Col>#d#I#I#S2_#d#&S0_#&I#&$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMEASCG(arma::mat, double, int, arma::mat, arma::umat, arma::vec, int, int, arma::vec, double, arma::mat &, int &, vector<double> &)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 406,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@findstep#$@N@arma@S@Mat>#d#d#d#d#S0_#S0_#&S0_#&$@N@arma@S@Col>#d#S2_#&d#$@N@arma@S@Col>#i#S3_#S3_#I#$@N@arma@S@Mat>#i#d#S4_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findstep(arma::mat, double, double, double, arma::mat, arma::mat, arma::mat &, arma::vec &, arma::vec &, double &, arma::uvec, arma::vec, arma::vec, int, arma::umat, double, double &)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 465,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@findA#$@N@arma@S@Mat>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findA(arma::mat)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 520,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@findmaxlambda#$@N@arma@S@Mat>#d#&$@N@arma@S@Col>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findmaxlambda(arma::mat, arma::vec &)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 544,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@proxBmain#$@N@arma@S@Mat>#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "proxBmain(arma::mat, double)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 562,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@findnewJ#$@N@arma@S@Mat>#d#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findnewJ(arma::mat, int)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 580,
+                "column": 12
+            },
+            {
+                "usr": "c:@F@operatorSY#$@N@arma@S@Mat>#d#S0_#$@N@arma@S@Mat>#i#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "operatorSY(arma::mat, arma::mat, arma::umat)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 589,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@operatorInvLA#$@N@arma@S@Col>#d#$@N@arma@S@Mat>#d#$@N@arma@S@Mat>#i#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "operatorInvLA(arma::vec, arma::mat, arma::umat)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 616,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@prox_b#$@N@arma@S@Col>#d#d#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "prox_b(arma::vec, double, arma::vec)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 640,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@updatesigma#&I#S0_#&d#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "updatesigma(int &, int &, double &, int, int)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 653,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@partgradient#$@N@arma@S@Col>#d#S0_#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "partgradient(arma::vec, arma::vec, double)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 686,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@mod#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "mod(int, int)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 699,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@vecOmega#$@N@arma@S@Mat>#d#$@N@arma@S@Mat>#i#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "vecOmega(arma::mat, arma::umat)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 706,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@findcd#&$@N@arma@S@Col>#d#S0_#$@N@arma@S@Mat>#i#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findcd(arma::vec &, arma::vec &, arma::umat)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.cpp",
+                "line": 721,
+                "column": 6
+            }
+        ]
+    },
+    {
+        "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/MARSc.h",
+        "file_last_write": 1624439988.0,
+        "definitions": []
+    },
+    {
+        "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+        "file_last_write": 1624439958.0,
+        "definitions": [
+            {
+                "usr": "c:@F@PMEASc#$@N@arma@S@Mat>#d#d#$@N@arma@S@Col>#d#$@N@std@N@__1@S@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@S@allocator>#C#S2_#i#b#b#d#I#b#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMEASc(arma::mat, double, arma::vec, std::string, std::string, unsigned int, bool, bool, double, int, bool)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 20,
+                "column": 12
+            },
+            {
+                "usr": "c:@F@PMESSNALmainc#$@N@arma@S@Mat>#d#d#d#I#&S0_#S1_#S1_#I#I#d#b#&d#S2_#S2_#S2_#S2_#S2_#&I#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMESSNALmainc(arma::mat, double, double, int, arma::mat &, arma::mat &, arma::mat &, int, int, double, bool, double &, double &, double &, double &, double &, double &, int &, arma::mat)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 193,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@PMESSNCGc#$@N@arma@S@Mat>#d#&S0_#S1_#S1_#S1_#S0_#S0_#&I#d#d#I#d#d#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMESSNCGc(arma::mat, arma::mat &, arma::mat &, arma::mat &, arma::mat &, arma::mat, arma::mat, int &, double, double, int, double, double, int, int)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 285,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@PMECG#$@N@arma@S@Mat>#d#d#I#S0_#S0_#I#I#d#&S0_#&I#&$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMECG(arma::mat, double, int, arma::mat, arma::mat, int, int, double, arma::mat &, int &, vector<double> &)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 443,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@findstep#$@N@arma@S@Mat>#d#d#d#d#&S0_#S1_#S1_#S0_#S0_#&d#d#S2_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findstep(arma::mat, double, double, double, arma::mat &, arma::mat &, arma::mat &, arma::mat, arma::mat, double &, double, double &, int)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 498,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@PMEiADMMc#$@N@arma@S@Mat>#d#d#d#I#&S0_#S1_#S1_#I#I#d#b#&d#S2_#S2_#S2_#S2_#S2_#&I#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMEiADMMc(arma::mat, double, double, int, arma::mat &, arma::mat &, arma::mat &, int, int, double, bool, double &, double &, double &, double &, double &, double &, int &, arma::mat)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 558,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@PMEeADMMc#$@N@arma@S@Mat>#d#S0_#$@N@arma@S@Col>#d#S0_#d#d#I#&S0_#S2_#S2_#I#I#d#b#&d#S3_#S3_#S3_#S3_#S3_#&I#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMEeADMMc(arma::mat, arma::mat, arma::vec, arma::mat, double, double, int, arma::mat &, arma::mat &, arma::mat &, int, int, double, bool, double &, double &, double &, double &, double &, double &, int &, arma::mat)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 699,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@ADMMCG#&$@N@arma@S@Mat>#d#S1_#S1_#d#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "ADMMCG(arma::mat &, arma::mat, arma::mat, double, int, double)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 857,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@modM#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "modM(int, int)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 925,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@findAM#$@N@arma@S@Mat>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findAM(arma::mat)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 985,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@findAandeigen#$@N@arma@S@Mat>#d#&S0_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findAandeigen(arma::mat, arma::mat &, arma::mat &)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 1010,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@oneoffnorm#$@N@arma@S@Mat>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "oneoffnorm(arma::mat)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 1037,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@proxBmainM#$@N@arma@S@Mat>#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "proxBmainM(arma::mat, double)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 1054,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@updatesigmaM#&I#S0_#&d#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "updatesigmaM(int &, int &, double &, int, int)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 1072,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@partgradient#$@N@arma@S@Mat>#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "partgradient(arma::mat, double)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 1106,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@OperatorVp#$@N@arma@S@Mat>#d#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "OperatorVp(arma::mat, arma::mat)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 1122,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@findmaxlambda#$@N@arma@S@Mat>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findmaxlambda(arma::mat)",
+                "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.cpp",
+                "line": 1144,
+                "column": 8
+            }
+        ]
+    },
+    {
+        "file": "C:/Users/liqia/Dropbox/R_package/MARS/src/PMEASc.h",
+        "file_last_write": 1624440014.0,
+        "definitions": []
+    }
+]

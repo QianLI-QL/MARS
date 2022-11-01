@@ -1,0 +1,15 @@
+{
+    "args": [
+        "-IC:/Program Files/RStudio/resources/libclang/builtin-headers/5.0.2",
+        "-IC:/Program Files/RStudio/resources/libclang/builtin-headers/libc++/5.0.2",
+        "-IC:/Users/LIQian/Documents/R/win-library/4.0/Rcpp/include",
+        "-IC:/Users/LIQian/Documents/R/win-library/4.0/RcppArmadillo/include",
+        "-std=gnu++11",
+        "-ID:/Setup/Ropen/include",
+        "-DNDEBUG",
+        "-IC:/a/w/1/s/vendor/extsoft/include"
+    ],
+    "pch": "RcppArmadillo",
+    "is_cpp": true,
+    "hash": "166727989616245108671624510882"
+}

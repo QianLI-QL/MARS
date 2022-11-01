@@ -1,0 +1,14 @@
+Package: MARS
+Type: Package
+Title: MARS: A second-order reduction algorithm for high-dimensional
+        sparse precision matrices estimation
+Version: 0.1.1
+Author: Qian Li, Binyan Jiang, Defeng Sun
+Maintainer: Qian Li <qianxa.li@connect.polyu.hk>
+Description: A R package for generating a precision matrix solution path under l1 penalized D-trace loss.
+License: GPL-2
+Depends: Matrix
+Imports: Rcpp (>= 1.0.0)
+LinkingTo: Rcpp, RcppArmadillo
+Encoding: UTF-8
+RoxygenNote: 7.1.1

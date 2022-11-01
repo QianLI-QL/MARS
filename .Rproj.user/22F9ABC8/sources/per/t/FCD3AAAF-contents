@@ -1,0 +1,9 @@
+testMARS <- function(){
+  printmain <- TRUE
+  printsub <- FALSE
+  sigma <- 1
+  stoptol <- 1e-4
+  X <- matrix(runif(1000*100), 1000, 100)
+  fixnumber <- ncol(X)
+  solution <- MARS::MARS(X, stoptol, Lambdapath = seq(1, 0.5, -0.02), maxiter = 15, stopmethod = "bigs", printmain, printsub, sigma, fixnumber, maxlambdacheck = TRUE)
+}

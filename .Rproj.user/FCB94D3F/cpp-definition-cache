@@ -1,0 +1,330 @@
+[
+    {
+        "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+        "file_last_write": 1632314407.0,
+        "definitions": [
+            {
+                "usr": "c:@F@MARSc#$@N@arma@S@Mat>#d#d#$@N@arma@S@Col>#d#$@N@std@N@__1@S@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@S@allocator>#C#i#b#b#d#I#b#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "MARSc(arma::mat, double, arma::vec, std::string, unsigned int, bool, bool, double, int, bool)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 26,
+                "column": 12
+            },
+            {
+                "usr": "c:@F@PMEASmainc#$@N@arma@S@Mat>#d#d#d#I#$@N@arma@S@Col>#i#$@N@arma@S@Mat>#i#&S0_#S3_#I#I#d#b#&d#S4_#S4_#S4_#S4_#S4_#&I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMEASmainc(arma::mat, double, double, int, arma::uvec, arma::umat, arma::mat &, arma::mat &, int, int, double, bool, double &, double &, double &, double &, double &, double &, int &)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 205,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@PMEASSSNCGc#&$@N@arma@S@Mat>#d#&$@N@arma@S@Col>#d#S2_#S2_#&I#S1_#S3_#d#d#I#d#d#I#I#$@N@arma@S@Col>#i#$@N@arma@S@Mat>#i#S3_#S3_#S3_#S3_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMEASSSNCGc(arma::mat &, arma::vec &, arma::vec &, arma::vec &, int &, arma::mat, arma::vec, double, double, int, double, double, int, int, arma::uvec, arma::umat, arma::vec, arma::vec, arma::vec, arma::vec)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 311,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@PMEASCG#$@N@arma@S@Mat>#d#d#I#S0_#$@N@arma@S@Mat>#i#$@N@arma@S@Col>#d#I#I#S2_#d#&S0_#&I#&$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMEASCG(arma::mat, double, int, arma::mat, arma::umat, arma::vec, int, int, arma::vec, double, arma::mat &, int &, vector<double> &)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 408,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@findstep#$@N@arma@S@Mat>#d#d#d#d#S0_#S0_#&S0_#&$@N@arma@S@Col>#d#S2_#&d#$@N@arma@S@Col>#i#S3_#S3_#I#$@N@arma@S@Mat>#i#d#S4_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findstep(arma::mat, double, double, double, arma::mat, arma::mat, arma::mat &, arma::vec &, arma::vec &, double &, arma::uvec, arma::vec, arma::vec, int, arma::umat, double, double &)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 467,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@findA#$@N@arma@S@Mat>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findA(arma::mat)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 522,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@findmaxlambda#$@N@arma@S@Mat>#d#&$@N@arma@S@Col>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findmaxlambda(arma::mat, arma::vec &)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 546,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@proxBmain#$@N@arma@S@Mat>#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "proxBmain(arma::mat, double)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 564,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@findnewJ#$@N@arma@S@Mat>#d#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findnewJ(arma::mat, int)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 582,
+                "column": 12
+            },
+            {
+                "usr": "c:@F@operatorSY#$@N@arma@S@Mat>#d#S0_#$@N@arma@S@Mat>#i#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "operatorSY(arma::mat, arma::mat, arma::umat)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 591,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@operatorInvLA#$@N@arma@S@Col>#d#$@N@arma@S@Mat>#d#$@N@arma@S@Mat>#i#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "operatorInvLA(arma::vec, arma::mat, arma::umat)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 618,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@prox_b#$@N@arma@S@Col>#d#d#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "prox_b(arma::vec, double, arma::vec)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 642,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@updatesigma#&I#S0_#&d#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "updatesigma(int &, int &, double &, int, int)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 655,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@partgradient#$@N@arma@S@Col>#d#S0_#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "partgradient(arma::vec, arma::vec, double)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 688,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@mod#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "mod(int, int)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 701,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@vecOmega#$@N@arma@S@Mat>#d#$@N@arma@S@Mat>#i#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "vecOmega(arma::mat, arma::umat)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 708,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@findcd#&$@N@arma@S@Col>#d#S0_#$@N@arma@S@Mat>#i#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findcd(arma::vec &, arma::vec &, arma::umat)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.cpp",
+                "line": 723,
+                "column": 6
+            }
+        ]
+    },
+    {
+        "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/MARSc.h",
+        "file_last_write": 1624439988.0,
+        "definitions": []
+    },
+    {
+        "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+        "file_last_write": 1667271493.0,
+        "definitions": [
+            {
+                "usr": "c:@F@PMEASc#$@N@arma@S@Mat>#d#d#$@N@arma@S@Col>#d#$@N@std@N@__1@S@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@S@allocator>#C#S2_#i#b#b#d#I#b#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMEASc(arma::mat, double, arma::vec, std::string, std::string, unsigned int, bool, bool, double, int, bool)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 20,
+                "column": 12
+            },
+            {
+                "usr": "c:@F@PMESSNALmainc#$@N@arma@S@Mat>#d#d#d#I#&S0_#S1_#S1_#I#I#d#b#&d#S2_#S2_#S2_#S2_#S2_#&I#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMESSNALmainc(arma::mat, double, double, int, arma::mat &, arma::mat &, arma::mat &, int, int, double, bool, double &, double &, double &, double &, double &, double &, int &, arma::mat)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 193,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@PMESSNCGc#$@N@arma@S@Mat>#d#&S0_#S1_#S1_#S1_#S0_#S0_#&I#d#d#I#d#d#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMESSNCGc(arma::mat, arma::mat &, arma::mat &, arma::mat &, arma::mat &, arma::mat, arma::mat, int &, double, double, int, double, double, int, int)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 285,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@PMECG#$@N@arma@S@Mat>#d#d#I#S0_#S0_#I#I#d#&S0_#&I#S2_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMECG(arma::mat, double, int, arma::mat, arma::mat, int, int, double, arma::mat &, int &, int &)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 443,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@findstep#$@N@arma@S@Mat>#d#d#d#d#&S0_#S1_#S1_#S0_#S0_#&d#d#S2_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findstep(arma::mat, double, double, double, arma::mat &, arma::mat &, arma::mat &, arma::mat, arma::mat, double &, double, double &, int)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 497,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@PMEiADMMc#$@N@arma@S@Mat>#d#d#d#I#&S0_#S1_#S1_#I#I#d#b#&d#S2_#S2_#S2_#S2_#S2_#&I#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMEiADMMc(arma::mat, double, double, int, arma::mat &, arma::mat &, arma::mat &, int, int, double, bool, double &, double &, double &, double &, double &, double &, int &, arma::mat)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 557,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@PMEeADMMc#$@N@arma@S@Mat>#d#S0_#$@N@arma@S@Col>#d#S0_#d#d#I#&S0_#S2_#S2_#I#I#d#b#&d#S3_#S3_#S3_#S3_#S3_#&I#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "PMEeADMMc(arma::mat, arma::mat, arma::vec, arma::mat, double, double, int, arma::mat &, arma::mat &, arma::mat &, int, int, double, bool, double &, double &, double &, double &, double &, double &, int &, arma::mat)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 698,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@ADMMCG#&$@N@arma@S@Mat>#d#S1_#S1_#d#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "ADMMCG(arma::mat &, arma::mat, arma::mat, double, int, double)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 856,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@modM#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "modM(int, int)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 924,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@findAM#$@N@arma@S@Mat>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findAM(arma::mat)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 984,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@findAandeigen#$@N@arma@S@Mat>#d#&S0_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findAandeigen(arma::mat, arma::mat &, arma::mat &)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 1009,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@oneoffnorm#$@N@arma@S@Mat>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "oneoffnorm(arma::mat)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 1036,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@proxBmainM#$@N@arma@S@Mat>#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "proxBmainM(arma::mat, double)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 1053,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@updatesigmaM#&I#S0_#&d#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "updatesigmaM(int &, int &, double &, int, int)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 1071,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@partgradient#$@N@arma@S@Mat>#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "partgradient(arma::mat, double)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 1105,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@OperatorVp#$@N@arma@S@Mat>#d#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "OperatorVp(arma::mat, arma::mat, arma::mat)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 1121,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@findmaxlambda#$@N@arma@S@Mat>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findmaxlambda(arma::mat)",
+                "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.cpp",
+                "line": 1146,
+                "column": 8
+            }
+        ]
+    },
+    {
+        "file": "D:/Onedrive/OneDrive - The Hong Kong Polytechnic University/codes/MARS/src/PMEASc.h",
+        "file_last_write": 1667271332.0,
+        "definitions": []
+    }
+]
