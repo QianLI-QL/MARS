@@ -1,5 +1,5 @@
 # MARS
-Under the high-dimensional setting, we proposed a second-order algorithm (MARS) for estimating sparse precision matrices. Note that our algorithm is designed for the cases that the sample dimension p is greater than the sample size n.
+Under the high-dimensional setting, we proposed a second-order algorithm (MARS) for estimating sparse precision matrices. Note that our algorithm is designed for the high dimensional setting, where the dimension $p$ is much larger than the sample size $n$.
 
 # References
 Qian LI, Binyan Jiang, and Defeng Sun. ["MARS: A second-order reduction algorithm for high-dimensional sparse precision matrices estimation"](https://www.polyu.edu.hk/ama/profile/dfsun/MARS0624.pdf). 
@@ -25,6 +25,7 @@ devtools::install_github("QianLI-QL/MARS")
 
 ## Example
 
+After MARS is installed, you can test the insulation by typing the following into R.
 ```
 library('Rcpp')
 library('RcppArmadillo')
