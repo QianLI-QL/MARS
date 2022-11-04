@@ -25,7 +25,7 @@ devtools::install_github("QianLI-QL/MARS")
 
 ## Example
 
-After MARS is installed, you can test the insulation by typing the following into R.
+After installing MARS, you can test the insulation by typing the following into R.
 ```
 library('Rcpp')
 library('RcppArmadillo')
